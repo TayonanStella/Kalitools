@@ -16,6 +16,7 @@ flatpak install flathub net.lutris.Lutris -y
 flatpak install flathub com.bitwarden.desktop -y
 flatpak install flathub org.torproject.torbrowser-launcher -y
 flatpak install flathub com.simplenote.Simplenote -y
+flatpak install flathub org.kde.kdenlive -y
 
 sudo apt install hydra -y
 sudo apt install nmap-common -y
