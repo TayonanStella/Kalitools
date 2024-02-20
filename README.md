@@ -11,7 +11,7 @@ Driver:
 placa de rede wifi e bluetooth
 
 Comando para baixar o arquivo: <br>
-"git clone https://github.com/TayonanStella/Kalitools.git"
+git clone https://github.com/TayonanStella/Kalitools.git <br>
 esse comando deve ser colado no terminal
 
 cole o comando no terminal em seguida pressione enter e aguarde o download
