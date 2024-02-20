@@ -10,8 +10,8 @@ metasploit, wifite, fluxion, ghydra, hydra, crunch, wifiphiser, sherlock, wiresh
 Driver:
 placa de rede wifi e bluetooth
 
-Comando para baixar o arquivo:
-git clone https://github.com/TayonanStella/Kalitools.git
+Comando para baixar o arquivo: <br>
+"git clone https://github.com/TayonanStella/Kalitools.git"
 esse comando deve ser colado no terminal
 
 cole o comando no terminal em seguida pressione enter e aguarde o download
